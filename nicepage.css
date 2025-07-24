@@ -46084,11 +46084,12 @@ a.u-link.u-text-hover-color-var:hover {
 
 /*end-variables sitestylecss*/
 .u-header .u-sheet-1 {
-  min-height: 130px;
+  min-height: 88px;
 }
 
 .u-header .u-text-1 {
-  margin: 22px auto 0;
+  font-weight: 700;
+  margin: 18px auto 0;
 }
 
 .u-header .u-menu-1 {
@@ -46114,7 +46115,7 @@ a.u-link.u-text-hover-color-var:hover {
 .u-header .u-icon-2 {
   width: 64px;
   height: 36px;
-  margin: -41px auto 60px 72px;
+  margin: -41px auto 26px 72px;
 }
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
@@ -46159,7 +46160,7 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 120px;
+  min-height: 42px;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
